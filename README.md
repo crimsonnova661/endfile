@@ -1,2 +1,3 @@
-# endfile
-my first c++ 
+(GITADD)
+(git commit-mmyfirstcode)
+(git push)
